@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.238.34:8081/repository/devops2pm-release/</url>
+	      <url>http://172.31.36.33:8081/repository/devops2pm-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.238.34:8081/repository/devops2pm-snapshot/</url>
+	      <url>http://172.31.36.33:8081/repository/devops2pm-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
